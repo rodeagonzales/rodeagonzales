@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodea Gonzales.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end web development.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rodsgonzales1@gmail.com
 
